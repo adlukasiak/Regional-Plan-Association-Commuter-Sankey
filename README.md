@@ -22,3 +22,6 @@ For visualization, in your Google Chrome browser:
 This project includes [ipython notebook](http://ipython.org/notebook.html) file that takes the csv file and builds json for the visualization.
 
 You won't need to do this step, the result json file is data/rpa_commute_res_emp.json and data/rpa_commute_emp_res.json.
+
+
+This project is based on work by Mike Bostock:  http://bost.ocks.org/mike/sankey/
