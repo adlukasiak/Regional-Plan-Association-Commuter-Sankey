@@ -21,7 +21,7 @@ For visualization, in your Google Chrome browser:
 <h3>JSON file</h3>
 This project includes [ipython notebook](http://ipython.org/notebook.html) file that takes the csv file and builds json for the visualization.
 
-You won't need to do this step, the result json file is [data/rpa_commute_res_emp.json](https://github.com/adlukasiak/Regional-Plan-Association-Commuter-Sankey/blob/master/data/rpa_commute_res_emp.json) and data/rpa_commute_emp_res.json.
+You won't need to do this step, the result json file is [data/rpa_commute_res_emp.json](https://github.com/adlukasiak/Regional-Plan-Association-Commuter-Sankey/blob/gh-pages/data/rpa_commute_res_emp_top_100.json) and [data/rpa_commute_emp_res.json](https://github.com/adlukasiak/Regional-Plan-Association-Commuter-Sankey/blob/gh-pages/data/rpa_commute_emp_res_top_100.json).
 
 
 This project is based on work by Mike Bostock:  http://bost.ocks.org/mike/sankey/
