@@ -1,0 +1,704 @@
+{
+"nodes": [
+{
+"name": "R ConnecticutFairfield County"
+}, 
+{
+"name": "R ConnecticutHartford County"
+}, 
+{
+"name": "R ConnecticutLitchfield County"
+}, 
+{
+"name": "R ConnecticutMiddlesex County"
+}, 
+{
+"name": "R ConnecticutNew Haven County"
+}, 
+{
+"name": "R New JerseyBergen County"
+}, 
+{
+"name": "R New JerseyBurlington County"
+}, 
+{
+"name": "R New JerseyEssex County"
+}, 
+{
+"name": "R New JerseyHudson County"
+}, 
+{
+"name": "R New JerseyHunterdon County"
+}, 
+{
+"name": "R New JerseyMercer County"
+}, 
+{
+"name": "R New JerseyMiddlesex County"
+}, 
+{
+"name": "R New JerseyMonmouth County"
+}, 
+{
+"name": "R New JerseyMorris County"
+}, 
+{
+"name": "R New JerseyOcean County"
+}, 
+{
+"name": "R New JerseyPassaic County"
+}, 
+{
+"name": "R New JerseySomerset County"
+}, 
+{
+"name": "R New JerseySussex County"
+}, 
+{
+"name": "R New JerseyUnion County"
+}, 
+{
+"name": "R New JerseyWarren County"
+}, 
+{
+"name": "R New YorkBronx County"
+}, 
+{
+"name": "R New YorkDutchess County"
+}, 
+{
+"name": "R New YorkKings County"
+}, 
+{
+"name": "R New YorkNassau County"
+}, 
+{
+"name": "R New YorkNew York County"
+}, 
+{
+"name": "R New YorkOrange County"
+}, 
+{
+"name": "R New YorkPutnam County"
+}, 
+{
+"name": "R New YorkQueens County"
+}, 
+{
+"name": "R New YorkRichmond County"
+}, 
+{
+"name": "R New YorkRockland County"
+}, 
+{
+"name": "R New YorkSuffolk County"
+}, 
+{
+"name": "R New YorkSullivan County"
+}, 
+{
+"name": "R New YorkUlster County"
+}, 
+{
+"name": "R New YorkWestchester County"
+}, 
+{
+"name": "R PennsylvaniaBucks County"
+}, 
+{
+"name": "T ConnecticutFairfield County"
+}, 
+{
+"name": "T ConnecticutLitchfield County"
+}, 
+{
+"name": "T ConnecticutNew Haven County"
+}, 
+{
+"name": "T New JerseyBergen County"
+}, 
+{
+"name": "T New JerseyEssex County"
+}, 
+{
+"name": "T New JerseyHudson County"
+}, 
+{
+"name": "T New JerseyHunterdon County"
+}, 
+{
+"name": "T New JerseyMercer County"
+}, 
+{
+"name": "T New JerseyMiddlesex County"
+}, 
+{
+"name": "T New JerseyMonmouth County"
+}, 
+{
+"name": "T New JerseyMorris County"
+}, 
+{
+"name": "T New JerseyOcean County"
+}, 
+{
+"name": "T New JerseyPassaic County"
+}, 
+{
+"name": "T New JerseySomerset County"
+}, 
+{
+"name": "T New JerseySussex County"
+}, 
+{
+"name": "T New JerseyUnion County"
+}, 
+{
+"name": "T New JerseyWarren County"
+}, 
+{
+"name": "T New YorkBronx County"
+}, 
+{
+"name": "T New YorkDutchess County"
+}, 
+{
+"name": "T New YorkKings County"
+}, 
+{
+"name": "T New YorkNassau County"
+}, 
+{
+"name": "T New YorkNew York County"
+}, 
+{
+"name": "T New YorkOrange County"
+}, 
+{
+"name": "T New YorkPutnam County"
+}, 
+{
+"name": "T New YorkQueens County"
+}, 
+{
+"name": "T New YorkRichmond County"
+}, 
+{
+"name": "T New YorkRockland County"
+}, 
+{
+"name": "T New YorkSuffolk County"
+}, 
+{
+"name": "T New YorkSullivan County"
+}, 
+{
+"name": "T New YorkUlster County"
+}, 
+{
+"name": "T New YorkWestchester County"
+}
+], 
+"links": [
+{
+"source": 24, 
+"target": 56, 
+"value": 696081
+}, 
+{
+"source": 22, 
+"target": 54, 
+"value": 533683
+}, 
+{
+"source": 30, 
+"target": 62, 
+"value": 533567
+}, 
+{
+"source": 27, 
+"target": 59, 
+"value": 430249
+}, 
+{
+"source": 22, 
+"target": 56, 
+"value": 391008
+}, 
+{
+"source": 27, 
+"target": 56, 
+"value": 370243
+}, 
+{
+"source": 23, 
+"target": 55, 
+"value": 369694
+}, 
+{
+"source": 0, 
+"target": 35, 
+"value": 335872
+}, 
+{
+"source": 4, 
+"target": 37, 
+"value": 302471
+}, 
+{
+"source": 33, 
+"target": 65, 
+"value": 278400
+}, 
+{
+"source": 5, 
+"target": 38, 
+"value": 242407
+}, 
+{
+"source": 20, 
+"target": 52, 
+"value": 226315
+}, 
+{
+"source": 11, 
+"target": 43, 
+"value": 211324
+}, 
+{
+"source": 20, 
+"target": 56, 
+"value": 191620
+}, 
+{
+"source": 12, 
+"target": 44, 
+"value": 184816
+}, 
+{
+"source": 7, 
+"target": 39, 
+"value": 184635
+}, 
+{
+"source": 8, 
+"target": 40, 
+"value": 142396
+}, 
+{
+"source": 14, 
+"target": 46, 
+"value": 140570
+}, 
+{
+"source": 13, 
+"target": 45, 
+"value": 139604
+}, 
+{
+"source": 18, 
+"target": 50, 
+"value": 121812
+}, 
+{
+"source": 10, 
+"target": 42, 
+"value": 116514
+}, 
+{
+"source": 25, 
+"target": 57, 
+"value": 109987
+}, 
+{
+"source": 15, 
+"target": 47, 
+"value": 101354
+}, 
+{
+"source": 28, 
+"target": 60, 
+"value": 95778
+}, 
+{
+"source": 23, 
+"target": 56, 
+"value": 95332
+}, 
+{
+"source": 21, 
+"target": 53, 
+"value": 93389
+}, 
+{
+"source": 30, 
+"target": 55, 
+"value": 87213
+}, 
+{
+"source": 27, 
+"target": 54, 
+"value": 84984
+}, 
+{
+"source": 33, 
+"target": 56, 
+"value": 82796
+}, 
+{
+"source": 29, 
+"target": 61, 
+"value": 81337
+}, 
+{
+"source": 8, 
+"target": 56, 
+"value": 75830
+}, 
+{
+"source": 27, 
+"target": 55, 
+"value": 75026
+}, 
+{
+"source": 16, 
+"target": 48, 
+"value": 70677
+}, 
+{
+"source": 23, 
+"target": 59, 
+"value": 70433
+}, 
+{
+"source": 22, 
+"target": 59, 
+"value": 69681
+}, 
+{
+"source": 5, 
+"target": 56, 
+"value": 66530
+}, 
+{
+"source": 32, 
+"target": 64, 
+"value": 58340
+}, 
+{
+"source": 4, 
+"target": 35, 
+"value": 58319
+}, 
+{
+"source": 28, 
+"target": 56, 
+"value": 52940
+}, 
+{
+"source": 23, 
+"target": 62, 
+"value": 52636
+}, 
+{
+"source": 2, 
+"target": 36, 
+"value": 51410
+}, 
+{
+"source": 15, 
+"target": 38, 
+"value": 51376
+}, 
+{
+"source": 14, 
+"target": 44, 
+"value": 42880
+}, 
+{
+"source": 30, 
+"target": 56, 
+"value": 40320
+}, 
+{
+"source": 20, 
+"target": 65, 
+"value": 37586
+}, 
+{
+"source": 7, 
+"target": 56, 
+"value": 34210
+}, 
+{
+"source": 18, 
+"target": 39, 
+"value": 34094
+}, 
+{
+"source": 17, 
+"target": 49, 
+"value": 32824
+}, 
+{
+"source": 28, 
+"target": 54, 
+"value": 29969
+}, 
+{
+"source": 33, 
+"target": 52, 
+"value": 29908
+}, 
+{
+"source": 11, 
+"target": 56, 
+"value": 29448
+}, 
+{
+"source": 8, 
+"target": 38, 
+"value": 29290
+}, 
+{
+"source": 0, 
+"target": 56, 
+"value": 27264
+}, 
+{
+"source": 9, 
+"target": 41, 
+"value": 27218
+}, 
+{
+"source": 24, 
+"target": 52, 
+"value": 27179
+}, 
+{
+"source": 5, 
+"target": 40, 
+"value": 27002
+}, 
+{
+"source": 11, 
+"target": 48, 
+"value": 26611
+}, 
+{
+"source": 12, 
+"target": 43, 
+"value": 26123
+}, 
+{
+"source": 11, 
+"target": 50, 
+"value": 25507
+}, 
+{
+"source": 23, 
+"target": 54, 
+"value": 25255
+}, 
+{
+"source": 18, 
+"target": 43, 
+"value": 25128
+}, 
+{
+"source": 7, 
+"target": 45, 
+"value": 25063
+}, 
+{
+"source": 5, 
+"target": 47, 
+"value": 25060
+}, 
+{
+"source": 30, 
+"target": 59, 
+"value": 25052
+}, 
+{
+"source": 13, 
+"target": 39, 
+"value": 24643
+}, 
+{
+"source": 16, 
+"target": 43, 
+"value": 24605
+}, 
+{
+"source": 7, 
+"target": 50, 
+"value": 24277
+}, 
+{
+"source": 24, 
+"target": 54, 
+"value": 23906
+}, 
+{
+"source": 12, 
+"target": 56, 
+"value": 23758
+}, 
+{
+"source": 31, 
+"target": 63, 
+"value": 23713
+}, 
+{
+"source": 0, 
+"target": 37, 
+"value": 23357
+}, 
+{
+"source": 8, 
+"target": 39, 
+"value": 22785
+}, 
+{
+"source": 6, 
+"target": 42, 
+"value": 22567
+}, 
+{
+"source": 19, 
+"target": 51, 
+"value": 22147
+}, 
+{
+"source": 20, 
+"target": 59, 
+"value": 21564
+}, 
+{
+"source": 0, 
+"target": 65, 
+"value": 21342
+}, 
+{
+"source": 27, 
+"target": 52, 
+"value": 21038
+}, 
+{
+"source": 34, 
+"target": 42, 
+"value": 20371
+}, 
+{
+"source": 17, 
+"target": 45, 
+"value": 20120
+}, 
+{
+"source": 24, 
+"target": 59, 
+"value": 20087
+}, 
+{
+"source": 20, 
+"target": 54, 
+"value": 19959
+}, 
+{
+"source": 26, 
+"target": 65, 
+"value": 19600
+}, 
+{
+"source": 15, 
+"target": 39, 
+"value": 19461
+}, 
+{
+"source": 1, 
+"target": 37, 
+"value": 19237
+}, 
+{
+"source": 18, 
+"target": 56, 
+"value": 19084
+}, 
+{
+"source": 7, 
+"target": 38, 
+"value": 18614
+}, 
+{
+"source": 5, 
+"target": 39, 
+"value": 18584
+}, 
+{
+"source": 7, 
+"target": 40, 
+"value": 17818
+}, 
+{
+"source": 15, 
+"target": 45, 
+"value": 17725
+}, 
+{
+"source": 33, 
+"target": 35, 
+"value": 17654
+}, 
+{
+"source": 11, 
+"target": 44, 
+"value": 16383
+}, 
+{
+"source": 11, 
+"target": 42, 
+"value": 15950
+}, 
+{
+"source": 10, 
+"target": 43, 
+"value": 15915
+}, 
+{
+"source": 11, 
+"target": 39, 
+"value": 15582
+}, 
+{
+"source": 21, 
+"target": 65, 
+"value": 15560
+}, 
+{
+"source": 26, 
+"target": 58, 
+"value": 15391
+}, 
+{
+"source": 29, 
+"target": 56, 
+"value": 14894
+}, 
+{
+"source": 2, 
+"target": 37, 
+"value": 14609
+}, 
+{
+"source": 7, 
+"target": 47, 
+"value": 14214
+}, 
+{
+"source": 3, 
+"target": 37, 
+"value": 13902
+}
+]
+}
