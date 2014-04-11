@@ -1,0 +1,100 @@
+R_SFIPS,R_CFIPS,R_SC_FIPS,E_SFIPS,E_CFIPS,E_SC_FIPS,Number,MOE,Res_Sta,Res_Cnty,Emp_Sta,Emp_Cnty
+36,61,36061,36,61,36061,696081,4440,New York,New York County,New York,New York County
+36,47,36047,36,47,36047,533683,4646,New York,Kings County,New York,Kings County
+36,103,36103,36,103,36103,533567,4253,New York,Suffolk County,New York,Suffolk County
+36,81,36081,36,81,36081,430249,4638,New York,Queens County,New York,Queens County
+36,47,36047,36,61,36061,391008,4620,New York,Kings County,New York,New York County
+36,81,36081,36,61,36061,370243,3715,New York,Queens County,New York,New York County
+36,59,36059,36,59,36059,369694,3286,New York,Nassau County,New York,Nassau County
+9,1,9001,9,1,9001,335872,3023,Connecticut,Fairfield County,Connecticut,Fairfield County
+9,9,9009,9,9,9009,302471,2853,Connecticut,New Haven County,Connecticut,New Haven County
+36,119,36119,36,119,36119,278400,2919,New York,Westchester County,New York,Westchester County
+34,3,34003,34,3,34003,242407,3294,New Jersey,Bergen County,New Jersey,Bergen County
+36,5,36005,36,5,36005,226315,3710,New York,Bronx County,New York,Bronx County
+34,23,34023,34,23,34023,211324,2862,New Jersey,Middlesex County,New Jersey,Middlesex County
+36,5,36005,36,61,36061,191620,3096,New York,Bronx County,New York,New York County
+34,25,34025,34,25,34025,184816,2476,New Jersey,Monmouth County,New Jersey,Monmouth County
+34,13,34013,34,13,34013,184635,3080,New Jersey,Essex County,New Jersey,Essex County
+34,17,34017,34,17,34017,142396,2938,New Jersey,Hudson County,New Jersey,Hudson County
+34,29,34029,34,29,34029,140570,1998,New Jersey,Ocean County,New Jersey,Ocean County
+34,27,34027,34,27,34027,139604,1759,New Jersey,Morris County,New Jersey,Morris County
+34,39,34039,34,39,34039,121812,2077,New Jersey,Union County,New Jersey,Union County
+34,21,34021,34,21,34021,116514,1940,New Jersey,Mercer County,New Jersey,Mercer County
+36,71,36071,36,71,36071,109987,1511,New York,Orange County,New York,Orange County
+34,31,34031,34,31,34031,101354,2276,New Jersey,Passaic County,New Jersey,Passaic County
+36,85,36085,36,85,36085,95778,1897,New York,Richmond County,New York,Richmond County
+36,59,36059,36,61,36061,95332,2281,New York,Nassau County,New York,New York County
+36,27,36027,36,27,36027,93389,1791,New York,Dutchess County,New York,Dutchess County
+36,103,36103,36,59,36059,87213,2191,New York,Suffolk County,New York,Nassau County
+36,81,36081,36,47,36047,84984,2217,New York,Queens County,New York,Kings County
+36,119,36119,36,61,36061,82796,1667,New York,Westchester County,New York,New York County
+36,87,36087,36,87,36087,81337,1529,New York,Rockland County,New York,Rockland County
+34,17,34017,36,61,36061,75830,1799,New Jersey,Hudson County,New York,New York County
+36,81,36081,36,59,36059,75026,2078,New York,Queens County,New York,Nassau County
+34,35,34035,34,35,34035,70677,1756,New Jersey,Somerset County,New Jersey,Somerset County
+36,59,36059,36,81,36081,70433,1925,New York,Nassau County,New York,Queens County
+36,47,36047,36,81,36081,69681,2169,New York,Kings County,New York,Queens County
+34,3,34003,36,61,36061,66530,1927,New Jersey,Bergen County,New York,New York County
+36,111,36111,36,111,36111,58340,1249,New York,Ulster County,New York,Ulster County
+9,9,9009,9,1,9001,58319,1625,Connecticut,New Haven County,Connecticut,Fairfield County
+36,85,36085,36,61,36061,52940,1713,New York,Richmond County,New York,New York County
+36,59,36059,36,103,36103,52636,1548,New York,Nassau County,New York,Suffolk County
+9,5,9005,9,5,9005,51410,1453,Connecticut,Litchfield County,Connecticut,Litchfield County
+34,31,34031,34,3,34003,51376,1532,New Jersey,Passaic County,New Jersey,Bergen County
+34,29,34029,34,25,34025,42880,1334,New Jersey,Ocean County,New Jersey,Monmouth County
+36,103,36103,36,61,36061,40320,1472,New York,Suffolk County,New York,New York County
+36,5,36005,36,119,36119,37586,1389,New York,Bronx County,New York,Westchester County
+34,13,34013,36,61,36061,34210,1213,New Jersey,Essex County,New York,New York County
+34,39,34039,34,13,34013,34094,1410,New Jersey,Union County,New Jersey,Essex County
+34,37,34037,34,37,34037,32824,977,New Jersey,Sussex County,New Jersey,Sussex County
+36,85,36085,36,47,36047,29969,1240,New York,Richmond County,New York,Kings County
+36,119,36119,36,5,36005,29908,1314,New York,Westchester County,New York,Bronx County
+34,23,34023,36,61,36061,29448,1256,New Jersey,Middlesex County,New York,New York County
+34,17,34017,34,3,34003,29290,1230,New Jersey,Hudson County,New Jersey,Bergen County
+9,1,9001,36,61,36061,27264,1156,Connecticut,Fairfield County,New York,New York County
+34,19,34019,34,19,34019,27218,841,New Jersey,Hunterdon County,New Jersey,Hunterdon County
+36,61,36061,36,5,36005,27179,1408,New York,New York County,New York,Bronx County
+34,3,34003,34,17,34017,27002,1167,New Jersey,Bergen County,New Jersey,Hudson County
+34,23,34023,34,35,34035,26611,1207,New Jersey,Middlesex County,New Jersey,Somerset County
+34,25,34025,34,23,34023,26123,993,New Jersey,Monmouth County,New Jersey,Middlesex County
+9,9,9009,9,3,9003,25901,1144,Connecticut,New Haven County,Connecticut,Hartford County
+34,23,34023,34,39,34039,25507,1050,New Jersey,Middlesex County,New Jersey,Union County
+36,59,36059,36,47,36047,25255,1217,New York,Nassau County,New York,Kings County
+34,39,34039,34,23,34023,25128,1351,New Jersey,Union County,New Jersey,Middlesex County
+34,13,34013,34,27,34027,25063,1158,New Jersey,Essex County,New Jersey,Morris County
+34,3,34003,34,31,34031,25060,1231,New Jersey,Bergen County,New Jersey,Passaic County
+36,103,36103,36,81,36081,25052,1059,New York,Suffolk County,New York,Queens County
+34,27,34027,34,13,34013,24643,1031,New Jersey,Morris County,New Jersey,Essex County
+34,35,34035,34,23,34023,24605,1072,New Jersey,Somerset County,New Jersey,Middlesex County
+34,13,34013,34,39,34039,24277,1241,New Jersey,Essex County,New Jersey,Union County
+36,61,36061,36,47,36047,23906,1315,New York,New York County,New York,Kings County
+34,25,34025,36,61,36061,23758,958,New Jersey,Monmouth County,New York,New York County
+36,105,36105,36,105,36105,23713,953,New York,Sullivan County,New York,Sullivan County
+9,1,9001,9,9,9009,23357,1040,Connecticut,Fairfield County,Connecticut,New Haven County
+34,17,34017,34,13,34013,22785,1332,New Jersey,Hudson County,New Jersey,Essex County
+34,41,34041,34,41,34041,22147,837,New Jersey,Warren County,New Jersey,Warren County
+36,5,36005,36,81,36081,21564,1291,New York,Bronx County,New York,Queens County
+9,1,9001,36,119,36119,21342,1040,Connecticut,Fairfield County,New York,Westchester County
+36,81,36081,36,5,36005,21038,1034,New York,Queens County,New York,Bronx County
+34,37,34037,34,27,34027,20120,749,New Jersey,Sussex County,New Jersey,Morris County
+36,61,36061,36,81,36081,20087,1231,New York,New York County,New York,Queens County
+36,5,36005,36,47,36047,19959,1073,New York,Bronx County,New York,Kings County
+36,79,36079,36,119,36119,19600,868,New York,Putnam County,New York,Westchester County
+34,31,34031,34,13,34013,19461,944,New Jersey,Passaic County,New Jersey,Essex County
+34,39,34039,36,61,36061,19084,775,New Jersey,Union County,New York,New York County
+34,13,34013,34,3,34003,18614,908,New Jersey,Essex County,New Jersey,Bergen County
+34,3,34003,34,13,34013,18584,887,New Jersey,Bergen County,New Jersey,Essex County
+34,13,34013,34,17,34017,17818,1069,New Jersey,Essex County,New Jersey,Hudson County
+34,31,34031,34,27,34027,17725,1050,New Jersey,Passaic County,New Jersey,Morris County
+36,119,36119,9,1,9001,17654,1001,New York,Westchester County,Connecticut,Fairfield County
+34,23,34023,34,25,34025,16383,866,New Jersey,Middlesex County,New Jersey,Monmouth County
+34,23,34023,34,21,34021,15950,976,New Jersey,Middlesex County,New Jersey,Mercer County
+34,21,34021,34,23,34023,15915,891,New Jersey,Mercer County,New Jersey,Middlesex County
+34,23,34023,34,13,34013,15582,934,New Jersey,Middlesex County,New Jersey,Essex County
+36,27,36027,36,119,36119,15560,867,New York,Dutchess County,New York,Westchester County
+36,79,36079,36,79,36079,15391,833,New York,Putnam County,New York,Putnam County
+36,87,36087,36,61,36061,14894,890,New York,Rockland County,New York,New York County
+9,5,9005,9,9,9009,14609,825,Connecticut,Litchfield County,Connecticut,New Haven County
+34,13,34013,34,31,34031,14214,979,New Jersey,Essex County,New Jersey,Passaic County
+36,81,36081,36,103,36103,13817,875,New York,Queens County,New York,Suffolk County
+9,5,9005,9,3,9003,13794,713,Connecticut,Litchfield County,Connecticut,Hartford County
