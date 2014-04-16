@@ -1,0 +1,1517 @@
+{
+"nodes": [
+{
+"name": "Connecticut (Res)"
+}, 
+{
+"name": "New Jersey (Res)"
+}, 
+{
+"name": "New York (Res)"
+}, 
+{
+"name": "Bergen County (Res)"
+}, 
+{
+"name": "Bronx County (Res)"
+}, 
+{
+"name": "Dutchess County (Res)"
+}, 
+{
+"name": "Essex County (Res)"
+}, 
+{
+"name": "Fairfield County (Res)"
+}, 
+{
+"name": "Hudson County (Res)"
+}, 
+{
+"name": "Hunterdon County (Res)"
+}, 
+{
+"name": "Kings County (Res)"
+}, 
+{
+"name": "Litchfield County (Res)"
+}, 
+{
+"name": "Mercer County (Res)"
+}, 
+{
+"name": "Middlesex County (Res)"
+}, 
+{
+"name": "Monmouth County (Res)"
+}, 
+{
+"name": "Morris County (Res)"
+}, 
+{
+"name": "Nassau County (Res)"
+}, 
+{
+"name": "New Haven County (Res)"
+}, 
+{
+"name": "New York County (Res)"
+}, 
+{
+"name": "Ocean County (Res)"
+}, 
+{
+"name": "Orange County (Res)"
+}, 
+{
+"name": "Passaic County (Res)"
+}, 
+{
+"name": "Putnam County (Res)"
+}, 
+{
+"name": "Queens County (Res)"
+}, 
+{
+"name": "Richmond County (Res)"
+}, 
+{
+"name": "Rockland County (Res)"
+}, 
+{
+"name": "Somerset County (Res)"
+}, 
+{
+"name": "Suffolk County (Res)"
+}, 
+{
+"name": "Sullivan County (Res)"
+}, 
+{
+"name": "Sussex County (Res)"
+}, 
+{
+"name": "Ulster County (Res)"
+}, 
+{
+"name": "Union County (Res)"
+}, 
+{
+"name": "Warren County (Res)"
+}, 
+{
+"name": "Westchester County (Res)"
+}, 
+{
+"name": "Bergen County (Emp)"
+}, 
+{
+"name": "Bronx County (Emp)"
+}, 
+{
+"name": "Dutchess County (Emp)"
+}, 
+{
+"name": "Essex County (Emp)"
+}, 
+{
+"name": "Fairfield County (Emp)"
+}, 
+{
+"name": "Hartford County (Emp)"
+}, 
+{
+"name": "Hudson County (Emp)"
+}, 
+{
+"name": "Hunterdon County (Emp)"
+}, 
+{
+"name": "Kings County (Emp)"
+}, 
+{
+"name": "Litchfield County (Emp)"
+}, 
+{
+"name": "Mercer County (Emp)"
+}, 
+{
+"name": "Middlesex County (Emp)"
+}, 
+{
+"name": "Monmouth County (Emp)"
+}, 
+{
+"name": "Morris County (Emp)"
+}, 
+{
+"name": "Nassau County (Emp)"
+}, 
+{
+"name": "New Haven County (Emp)"
+}, 
+{
+"name": "New York County (Emp)"
+}, 
+{
+"name": "Ocean County (Emp)"
+}, 
+{
+"name": "Orange County (Emp)"
+}, 
+{
+"name": "Passaic County (Emp)"
+}, 
+{
+"name": "Putnam County (Emp)"
+}, 
+{
+"name": "Queens County (Emp)"
+}, 
+{
+"name": "Richmond County (Emp)"
+}, 
+{
+"name": "Rockland County (Emp)"
+}, 
+{
+"name": "Somerset County (Emp)"
+}, 
+{
+"name": "Suffolk County (Emp)"
+}, 
+{
+"name": "Sullivan County (Emp)"
+}, 
+{
+"name": "Sussex County (Emp)"
+}, 
+{
+"name": "Ulster County (Emp)"
+}, 
+{
+"name": "Union County (Emp)"
+}, 
+{
+"name": "Warren County (Emp)"
+}, 
+{
+"name": "Westchester County (Emp)"
+}, 
+{
+"name": "Connecticut (Emp)"
+}, 
+{
+"name": "New Jersey (Emp)"
+}, 
+{
+"name": "New York (Emp)"
+}
+], 
+"links": [
+{
+"target": 7, 
+"value": 407835, 
+"source": 0, 
+"intra_cnty": false, 
+"cnty_or_state": "State", 
+"intra_state": false
+}, 
+{
+"target": 11, 
+"value": 79813, 
+"source": 0, 
+"intra_cnty": false, 
+"cnty_or_state": "State", 
+"intra_state": false
+}, 
+{
+"target": 17, 
+"value": 386691, 
+"source": 0, 
+"intra_cnty": false, 
+"cnty_or_state": "State", 
+"intra_state": false
+}, 
+{
+"target": 3, 
+"value": 379583, 
+"source": 1, 
+"intra_cnty": false, 
+"cnty_or_state": "State", 
+"intra_state": false
+}, 
+{
+"target": 6, 
+"value": 318831, 
+"source": 1, 
+"intra_cnty": false, 
+"cnty_or_state": "State", 
+"intra_state": false
+}, 
+{
+"target": 8, 
+"value": 270301, 
+"source": 1, 
+"intra_cnty": false, 
+"cnty_or_state": "State", 
+"intra_state": false
+}, 
+{
+"target": 9, 
+"value": 27218, 
+"source": 1, 
+"intra_cnty": false, 
+"cnty_or_state": "State", 
+"intra_state": false
+}, 
+{
+"target": 12, 
+"value": 132429, 
+"source": 1, 
+"intra_cnty": false, 
+"cnty_or_state": "State", 
+"intra_state": false
+}, 
+{
+"target": 13, 
+"value": 340805, 
+"source": 1, 
+"intra_cnty": false, 
+"cnty_or_state": "State", 
+"intra_state": false
+}, 
+{
+"target": 14, 
+"value": 234697, 
+"source": 1, 
+"intra_cnty": false, 
+"cnty_or_state": "State", 
+"intra_state": false
+}, 
+{
+"target": 15, 
+"value": 164247, 
+"source": 1, 
+"intra_cnty": false, 
+"cnty_or_state": "State", 
+"intra_state": false
+}, 
+{
+"target": 19, 
+"value": 183450, 
+"source": 1, 
+"intra_cnty": false, 
+"cnty_or_state": "State", 
+"intra_state": false
+}, 
+{
+"target": 21, 
+"value": 189916, 
+"source": 1, 
+"intra_cnty": false, 
+"cnty_or_state": "State", 
+"intra_state": false
+}, 
+{
+"target": 26, 
+"value": 95282, 
+"source": 1, 
+"intra_cnty": false, 
+"cnty_or_state": "State", 
+"intra_state": false
+}, 
+{
+"target": 29, 
+"value": 52944, 
+"source": 1, 
+"intra_cnty": false, 
+"cnty_or_state": "State", 
+"intra_state": false
+}, 
+{
+"target": 31, 
+"value": 200118, 
+"source": 1, 
+"intra_cnty": false, 
+"cnty_or_state": "State", 
+"intra_state": false
+}, 
+{
+"target": 32, 
+"value": 22147, 
+"source": 1, 
+"intra_cnty": false, 
+"cnty_or_state": "State", 
+"intra_state": false
+}, 
+{
+"target": 4, 
+"value": 497044, 
+"source": 2, 
+"intra_cnty": false, 
+"cnty_or_state": "State", 
+"intra_state": false
+}, 
+{
+"target": 5, 
+"value": 108949, 
+"source": 2, 
+"intra_cnty": false, 
+"cnty_or_state": "State", 
+"intra_state": false
+}, 
+{
+"target": 10, 
+"value": 1007906, 
+"source": 2, 
+"intra_cnty": false, 
+"cnty_or_state": "State", 
+"intra_state": false
+}, 
+{
+"target": 16, 
+"value": 613350, 
+"source": 2, 
+"intra_cnty": false, 
+"cnty_or_state": "State", 
+"intra_state": false
+}, 
+{
+"target": 18, 
+"value": 767253, 
+"source": 2, 
+"intra_cnty": false, 
+"cnty_or_state": "State", 
+"intra_state": false
+}, 
+{
+"target": 20, 
+"value": 109987, 
+"source": 2, 
+"intra_cnty": false, 
+"cnty_or_state": "State", 
+"intra_state": false
+}, 
+{
+"target": 22, 
+"value": 34991, 
+"source": 2, 
+"intra_cnty": false, 
+"cnty_or_state": "State", 
+"intra_state": false
+}, 
+{
+"target": 23, 
+"value": 995357, 
+"source": 2, 
+"intra_cnty": false, 
+"cnty_or_state": "State", 
+"intra_state": false
+}, 
+{
+"target": 24, 
+"value": 178687, 
+"source": 2, 
+"intra_cnty": false, 
+"cnty_or_state": "State", 
+"intra_state": false
+}, 
+{
+"target": 25, 
+"value": 96231, 
+"source": 2, 
+"intra_cnty": false, 
+"cnty_or_state": "State", 
+"intra_state": false
+}, 
+{
+"target": 27, 
+"value": 686152, 
+"source": 2, 
+"intra_cnty": false, 
+"cnty_or_state": "State", 
+"intra_state": false
+}, 
+{
+"target": 28, 
+"value": 23713, 
+"source": 2, 
+"intra_cnty": false, 
+"cnty_or_state": "State", 
+"intra_state": false
+}, 
+{
+"target": 30, 
+"value": 58340, 
+"source": 2, 
+"intra_cnty": false, 
+"cnty_or_state": "State", 
+"intra_state": false
+}, 
+{
+"target": 33, 
+"value": 408758, 
+"source": 2, 
+"intra_cnty": false, 
+"cnty_or_state": "State", 
+"intra_state": false
+}, 
+{
+"target": 50, 
+"value": 696081, 
+"source": 18, 
+"intra_cnty": true, 
+"cnty_or_state": "Cnty", 
+"intra_state": true
+}, 
+{
+"target": 42, 
+"value": 533683, 
+"source": 10, 
+"intra_cnty": true, 
+"cnty_or_state": "Cnty", 
+"intra_state": true
+}, 
+{
+"target": 59, 
+"value": 533567, 
+"source": 27, 
+"intra_cnty": true, 
+"cnty_or_state": "Cnty", 
+"intra_state": true
+}, 
+{
+"target": 55, 
+"value": 430249, 
+"source": 23, 
+"intra_cnty": true, 
+"cnty_or_state": "Cnty", 
+"intra_state": true
+}, 
+{
+"target": 50, 
+"value": 391008, 
+"source": 10, 
+"intra_cnty": false, 
+"cnty_or_state": "Cnty", 
+"intra_state": true
+}, 
+{
+"target": 50, 
+"value": 370243, 
+"source": 23, 
+"intra_cnty": false, 
+"cnty_or_state": "Cnty", 
+"intra_state": true
+}, 
+{
+"target": 48, 
+"value": 369694, 
+"source": 16, 
+"intra_cnty": true, 
+"cnty_or_state": "Cnty", 
+"intra_state": true
+}, 
+{
+"target": 38, 
+"value": 335872, 
+"source": 7, 
+"intra_cnty": true, 
+"cnty_or_state": "Cnty", 
+"intra_state": true
+}, 
+{
+"target": 49, 
+"value": 302471, 
+"source": 17, 
+"intra_cnty": true, 
+"cnty_or_state": "Cnty", 
+"intra_state": true
+}, 
+{
+"target": 65, 
+"value": 278400, 
+"source": 33, 
+"intra_cnty": true, 
+"cnty_or_state": "Cnty", 
+"intra_state": true
+}, 
+{
+"target": 34, 
+"value": 242407, 
+"source": 3, 
+"intra_cnty": true, 
+"cnty_or_state": "Cnty", 
+"intra_state": true
+}, 
+{
+"target": 35, 
+"value": 226315, 
+"source": 4, 
+"intra_cnty": true, 
+"cnty_or_state": "Cnty", 
+"intra_state": true
+}, 
+{
+"target": 45, 
+"value": 211324, 
+"source": 13, 
+"intra_cnty": true, 
+"cnty_or_state": "Cnty", 
+"intra_state": true
+}, 
+{
+"target": 50, 
+"value": 191620, 
+"source": 4, 
+"intra_cnty": false, 
+"cnty_or_state": "Cnty", 
+"intra_state": true
+}, 
+{
+"target": 46, 
+"value": 184816, 
+"source": 14, 
+"intra_cnty": true, 
+"cnty_or_state": "Cnty", 
+"intra_state": true
+}, 
+{
+"target": 37, 
+"value": 184635, 
+"source": 6, 
+"intra_cnty": true, 
+"cnty_or_state": "Cnty", 
+"intra_state": true
+}, 
+{
+"target": 40, 
+"value": 142396, 
+"source": 8, 
+"intra_cnty": true, 
+"cnty_or_state": "Cnty", 
+"intra_state": true
+}, 
+{
+"target": 51, 
+"value": 140570, 
+"source": 19, 
+"intra_cnty": true, 
+"cnty_or_state": "Cnty", 
+"intra_state": true
+}, 
+{
+"target": 47, 
+"value": 139604, 
+"source": 15, 
+"intra_cnty": true, 
+"cnty_or_state": "Cnty", 
+"intra_state": true
+}, 
+{
+"target": 63, 
+"value": 121812, 
+"source": 31, 
+"intra_cnty": true, 
+"cnty_or_state": "Cnty", 
+"intra_state": true
+}, 
+{
+"target": 44, 
+"value": 116514, 
+"source": 12, 
+"intra_cnty": true, 
+"cnty_or_state": "Cnty", 
+"intra_state": true
+}, 
+{
+"target": 52, 
+"value": 109987, 
+"source": 20, 
+"intra_cnty": true, 
+"cnty_or_state": "Cnty", 
+"intra_state": true
+}, 
+{
+"target": 53, 
+"value": 101354, 
+"source": 21, 
+"intra_cnty": true, 
+"cnty_or_state": "Cnty", 
+"intra_state": true
+}, 
+{
+"target": 56, 
+"value": 95778, 
+"source": 24, 
+"intra_cnty": true, 
+"cnty_or_state": "Cnty", 
+"intra_state": true
+}, 
+{
+"target": 50, 
+"value": 95332, 
+"source": 16, 
+"intra_cnty": false, 
+"cnty_or_state": "Cnty", 
+"intra_state": true
+}, 
+{
+"target": 36, 
+"value": 93389, 
+"source": 5, 
+"intra_cnty": true, 
+"cnty_or_state": "Cnty", 
+"intra_state": true
+}, 
+{
+"target": 48, 
+"value": 87213, 
+"source": 27, 
+"intra_cnty": false, 
+"cnty_or_state": "Cnty", 
+"intra_state": true
+}, 
+{
+"target": 42, 
+"value": 84984, 
+"source": 23, 
+"intra_cnty": false, 
+"cnty_or_state": "Cnty", 
+"intra_state": true
+}, 
+{
+"target": 50, 
+"value": 82796, 
+"source": 33, 
+"intra_cnty": false, 
+"cnty_or_state": "Cnty", 
+"intra_state": true
+}, 
+{
+"target": 57, 
+"value": 81337, 
+"source": 25, 
+"intra_cnty": true, 
+"cnty_or_state": "Cnty", 
+"intra_state": true
+}, 
+{
+"target": 50, 
+"value": 75830, 
+"source": 8, 
+"intra_cnty": false, 
+"cnty_or_state": "Cnty", 
+"intra_state": false
+}, 
+{
+"target": 48, 
+"value": 75026, 
+"source": 23, 
+"intra_cnty": false, 
+"cnty_or_state": "Cnty", 
+"intra_state": true
+}, 
+{
+"target": 58, 
+"value": 70677, 
+"source": 26, 
+"intra_cnty": true, 
+"cnty_or_state": "Cnty", 
+"intra_state": true
+}, 
+{
+"target": 55, 
+"value": 70433, 
+"source": 16, 
+"intra_cnty": false, 
+"cnty_or_state": "Cnty", 
+"intra_state": true
+}, 
+{
+"target": 55, 
+"value": 69681, 
+"source": 10, 
+"intra_cnty": false, 
+"cnty_or_state": "Cnty", 
+"intra_state": true
+}, 
+{
+"target": 50, 
+"value": 66530, 
+"source": 3, 
+"intra_cnty": false, 
+"cnty_or_state": "Cnty", 
+"intra_state": false
+}, 
+{
+"target": 62, 
+"value": 58340, 
+"source": 30, 
+"intra_cnty": true, 
+"cnty_or_state": "Cnty", 
+"intra_state": true
+}, 
+{
+"target": 38, 
+"value": 58319, 
+"source": 17, 
+"intra_cnty": false, 
+"cnty_or_state": "Cnty", 
+"intra_state": true
+}, 
+{
+"target": 50, 
+"value": 52940, 
+"source": 24, 
+"intra_cnty": false, 
+"cnty_or_state": "Cnty", 
+"intra_state": true
+}, 
+{
+"target": 59, 
+"value": 52636, 
+"source": 16, 
+"intra_cnty": false, 
+"cnty_or_state": "Cnty", 
+"intra_state": true
+}, 
+{
+"target": 43, 
+"value": 51410, 
+"source": 11, 
+"intra_cnty": true, 
+"cnty_or_state": "Cnty", 
+"intra_state": true
+}, 
+{
+"target": 34, 
+"value": 51376, 
+"source": 21, 
+"intra_cnty": false, 
+"cnty_or_state": "Cnty", 
+"intra_state": true
+}, 
+{
+"target": 46, 
+"value": 42880, 
+"source": 19, 
+"intra_cnty": false, 
+"cnty_or_state": "Cnty", 
+"intra_state": true
+}, 
+{
+"target": 50, 
+"value": 40320, 
+"source": 27, 
+"intra_cnty": false, 
+"cnty_or_state": "Cnty", 
+"intra_state": true
+}, 
+{
+"target": 65, 
+"value": 37586, 
+"source": 4, 
+"intra_cnty": false, 
+"cnty_or_state": "Cnty", 
+"intra_state": true
+}, 
+{
+"target": 50, 
+"value": 34210, 
+"source": 6, 
+"intra_cnty": false, 
+"cnty_or_state": "Cnty", 
+"intra_state": false
+}, 
+{
+"target": 37, 
+"value": 34094, 
+"source": 31, 
+"intra_cnty": false, 
+"cnty_or_state": "Cnty", 
+"intra_state": true
+}, 
+{
+"target": 61, 
+"value": 32824, 
+"source": 29, 
+"intra_cnty": true, 
+"cnty_or_state": "Cnty", 
+"intra_state": true
+}, 
+{
+"target": 42, 
+"value": 29969, 
+"source": 24, 
+"intra_cnty": false, 
+"cnty_or_state": "Cnty", 
+"intra_state": true
+}, 
+{
+"target": 35, 
+"value": 29908, 
+"source": 33, 
+"intra_cnty": false, 
+"cnty_or_state": "Cnty", 
+"intra_state": true
+}, 
+{
+"target": 50, 
+"value": 29448, 
+"source": 13, 
+"intra_cnty": false, 
+"cnty_or_state": "Cnty", 
+"intra_state": false
+}, 
+{
+"target": 34, 
+"value": 29290, 
+"source": 8, 
+"intra_cnty": false, 
+"cnty_or_state": "Cnty", 
+"intra_state": true
+}, 
+{
+"target": 50, 
+"value": 27264, 
+"source": 7, 
+"intra_cnty": false, 
+"cnty_or_state": "Cnty", 
+"intra_state": false
+}, 
+{
+"target": 41, 
+"value": 27218, 
+"source": 9, 
+"intra_cnty": true, 
+"cnty_or_state": "Cnty", 
+"intra_state": true
+}, 
+{
+"target": 35, 
+"value": 27179, 
+"source": 18, 
+"intra_cnty": false, 
+"cnty_or_state": "Cnty", 
+"intra_state": true
+}, 
+{
+"target": 40, 
+"value": 27002, 
+"source": 3, 
+"intra_cnty": false, 
+"cnty_or_state": "Cnty", 
+"intra_state": true
+}, 
+{
+"target": 58, 
+"value": 26611, 
+"source": 13, 
+"intra_cnty": false, 
+"cnty_or_state": "Cnty", 
+"intra_state": true
+}, 
+{
+"target": 45, 
+"value": 26123, 
+"source": 14, 
+"intra_cnty": false, 
+"cnty_or_state": "Cnty", 
+"intra_state": true
+}, 
+{
+"target": 39, 
+"value": 25901, 
+"source": 17, 
+"intra_cnty": false, 
+"cnty_or_state": "Cnty", 
+"intra_state": true
+}, 
+{
+"target": 63, 
+"value": 25507, 
+"source": 13, 
+"intra_cnty": false, 
+"cnty_or_state": "Cnty", 
+"intra_state": true
+}, 
+{
+"target": 42, 
+"value": 25255, 
+"source": 16, 
+"intra_cnty": false, 
+"cnty_or_state": "Cnty", 
+"intra_state": true
+}, 
+{
+"target": 45, 
+"value": 25128, 
+"source": 31, 
+"intra_cnty": false, 
+"cnty_or_state": "Cnty", 
+"intra_state": true
+}, 
+{
+"target": 47, 
+"value": 25063, 
+"source": 6, 
+"intra_cnty": false, 
+"cnty_or_state": "Cnty", 
+"intra_state": true
+}, 
+{
+"target": 53, 
+"value": 25060, 
+"source": 3, 
+"intra_cnty": false, 
+"cnty_or_state": "Cnty", 
+"intra_state": true
+}, 
+{
+"target": 55, 
+"value": 25052, 
+"source": 27, 
+"intra_cnty": false, 
+"cnty_or_state": "Cnty", 
+"intra_state": true
+}, 
+{
+"target": 37, 
+"value": 24643, 
+"source": 15, 
+"intra_cnty": false, 
+"cnty_or_state": "Cnty", 
+"intra_state": true
+}, 
+{
+"target": 45, 
+"value": 24605, 
+"source": 26, 
+"intra_cnty": false, 
+"cnty_or_state": "Cnty", 
+"intra_state": true
+}, 
+{
+"target": 63, 
+"value": 24277, 
+"source": 6, 
+"intra_cnty": false, 
+"cnty_or_state": "Cnty", 
+"intra_state": true
+}, 
+{
+"target": 42, 
+"value": 23906, 
+"source": 18, 
+"intra_cnty": false, 
+"cnty_or_state": "Cnty", 
+"intra_state": true
+}, 
+{
+"target": 50, 
+"value": 23758, 
+"source": 14, 
+"intra_cnty": false, 
+"cnty_or_state": "Cnty", 
+"intra_state": false
+}, 
+{
+"target": 60, 
+"value": 23713, 
+"source": 28, 
+"intra_cnty": true, 
+"cnty_or_state": "Cnty", 
+"intra_state": true
+}, 
+{
+"target": 49, 
+"value": 23357, 
+"source": 7, 
+"intra_cnty": false, 
+"cnty_or_state": "Cnty", 
+"intra_state": true
+}, 
+{
+"target": 37, 
+"value": 22785, 
+"source": 8, 
+"intra_cnty": false, 
+"cnty_or_state": "Cnty", 
+"intra_state": true
+}, 
+{
+"target": 64, 
+"value": 22147, 
+"source": 32, 
+"intra_cnty": true, 
+"cnty_or_state": "Cnty", 
+"intra_state": true
+}, 
+{
+"target": 55, 
+"value": 21564, 
+"source": 4, 
+"intra_cnty": false, 
+"cnty_or_state": "Cnty", 
+"intra_state": true
+}, 
+{
+"target": 65, 
+"value": 21342, 
+"source": 7, 
+"intra_cnty": false, 
+"cnty_or_state": "Cnty", 
+"intra_state": false
+}, 
+{
+"target": 35, 
+"value": 21038, 
+"source": 23, 
+"intra_cnty": false, 
+"cnty_or_state": "Cnty", 
+"intra_state": true
+}, 
+{
+"target": 47, 
+"value": 20120, 
+"source": 29, 
+"intra_cnty": false, 
+"cnty_or_state": "Cnty", 
+"intra_state": true
+}, 
+{
+"target": 55, 
+"value": 20087, 
+"source": 18, 
+"intra_cnty": false, 
+"cnty_or_state": "Cnty", 
+"intra_state": true
+}, 
+{
+"target": 42, 
+"value": 19959, 
+"source": 4, 
+"intra_cnty": false, 
+"cnty_or_state": "Cnty", 
+"intra_state": true
+}, 
+{
+"target": 65, 
+"value": 19600, 
+"source": 22, 
+"intra_cnty": false, 
+"cnty_or_state": "Cnty", 
+"intra_state": true
+}, 
+{
+"target": 37, 
+"value": 19461, 
+"source": 21, 
+"intra_cnty": false, 
+"cnty_or_state": "Cnty", 
+"intra_state": true
+}, 
+{
+"target": 50, 
+"value": 19084, 
+"source": 31, 
+"intra_cnty": false, 
+"cnty_or_state": "Cnty", 
+"intra_state": false
+}, 
+{
+"target": 34, 
+"value": 18614, 
+"source": 6, 
+"intra_cnty": false, 
+"cnty_or_state": "Cnty", 
+"intra_state": true
+}, 
+{
+"target": 37, 
+"value": 18584, 
+"source": 3, 
+"intra_cnty": false, 
+"cnty_or_state": "Cnty", 
+"intra_state": true
+}, 
+{
+"target": 40, 
+"value": 17818, 
+"source": 6, 
+"intra_cnty": false, 
+"cnty_or_state": "Cnty", 
+"intra_state": true
+}, 
+{
+"target": 47, 
+"value": 17725, 
+"source": 21, 
+"intra_cnty": false, 
+"cnty_or_state": "Cnty", 
+"intra_state": true
+}, 
+{
+"target": 38, 
+"value": 17654, 
+"source": 33, 
+"intra_cnty": false, 
+"cnty_or_state": "Cnty", 
+"intra_state": false
+}, 
+{
+"target": 46, 
+"value": 16383, 
+"source": 13, 
+"intra_cnty": false, 
+"cnty_or_state": "Cnty", 
+"intra_state": true
+}, 
+{
+"target": 44, 
+"value": 15950, 
+"source": 13, 
+"intra_cnty": false, 
+"cnty_or_state": "Cnty", 
+"intra_state": true
+}, 
+{
+"target": 45, 
+"value": 15915, 
+"source": 12, 
+"intra_cnty": false, 
+"cnty_or_state": "Cnty", 
+"intra_state": true
+}, 
+{
+"target": 37, 
+"value": 15582, 
+"source": 13, 
+"intra_cnty": false, 
+"cnty_or_state": "Cnty", 
+"intra_state": true
+}, 
+{
+"target": 65, 
+"value": 15560, 
+"source": 5, 
+"intra_cnty": false, 
+"cnty_or_state": "Cnty", 
+"intra_state": true
+}, 
+{
+"target": 54, 
+"value": 15391, 
+"source": 22, 
+"intra_cnty": true, 
+"cnty_or_state": "Cnty", 
+"intra_state": true
+}, 
+{
+"target": 50, 
+"value": 14894, 
+"source": 25, 
+"intra_cnty": false, 
+"cnty_or_state": "Cnty", 
+"intra_state": true
+}, 
+{
+"target": 49, 
+"value": 14609, 
+"source": 11, 
+"intra_cnty": false, 
+"cnty_or_state": "Cnty", 
+"intra_state": true
+}, 
+{
+"target": 53, 
+"value": 14214, 
+"source": 6, 
+"intra_cnty": false, 
+"cnty_or_state": "Cnty", 
+"intra_state": true
+}, 
+{
+"target": 59, 
+"value": 13817, 
+"source": 23, 
+"intra_cnty": false, 
+"cnty_or_state": "Cnty", 
+"intra_state": true
+}, 
+{
+"target": 39, 
+"value": 13794, 
+"source": 11, 
+"intra_cnty": false, 
+"cnty_or_state": "Cnty", 
+"intra_state": true
+}, 
+{
+"target": 35, 
+"value": 13534, 
+"source": 10, 
+"intra_cnty": false, 
+"cnty_or_state": "Cnty", 
+"intra_state": true
+}, 
+{
+"target": 66, 
+"value": 411845, 
+"source": 38, 
+"intra_cnty": false, 
+"cnty_or_state": "State", 
+"intra_state": false
+}, 
+{
+"target": 66, 
+"value": 39695, 
+"source": 39, 
+"intra_cnty": false, 
+"cnty_or_state": "State", 
+"intra_state": false
+}, 
+{
+"target": 66, 
+"value": 51410, 
+"source": 43, 
+"intra_cnty": false, 
+"cnty_or_state": "State", 
+"intra_state": false
+}, 
+{
+"target": 66, 
+"value": 340437, 
+"source": 49, 
+"intra_cnty": false, 
+"cnty_or_state": "State", 
+"intra_state": false
+}, 
+{
+"target": 67, 
+"value": 341687, 
+"source": 34, 
+"intra_cnty": false, 
+"cnty_or_state": "State", 
+"intra_state": false
+}, 
+{
+"target": 67, 
+"value": 319784, 
+"source": 37, 
+"intra_cnty": false, 
+"cnty_or_state": "State", 
+"intra_state": false
+}, 
+{
+"target": 67, 
+"value": 187216, 
+"source": 40, 
+"intra_cnty": false, 
+"cnty_or_state": "State", 
+"intra_state": false
+}, 
+{
+"target": 67, 
+"value": 27218, 
+"source": 41, 
+"intra_cnty": false, 
+"cnty_or_state": "State", 
+"intra_state": false
+}, 
+{
+"target": 67, 
+"value": 132464, 
+"source": 44, 
+"intra_cnty": false, 
+"cnty_or_state": "State", 
+"intra_state": false
+}, 
+{
+"target": 67, 
+"value": 303095, 
+"source": 45, 
+"intra_cnty": false, 
+"cnty_or_state": "State", 
+"intra_state": false
+}, 
+{
+"target": 67, 
+"value": 244079, 
+"source": 46, 
+"intra_cnty": false, 
+"cnty_or_state": "State", 
+"intra_state": false
+}, 
+{
+"target": 67, 
+"value": 202512, 
+"source": 47, 
+"intra_cnty": false, 
+"cnty_or_state": "State", 
+"intra_state": false
+}, 
+{
+"target": 67, 
+"value": 140570, 
+"source": 51, 
+"intra_cnty": false, 
+"cnty_or_state": "State", 
+"intra_state": false
+}, 
+{
+"target": 67, 
+"value": 140628, 
+"source": 53, 
+"intra_cnty": false, 
+"cnty_or_state": "State", 
+"intra_state": false
+}, 
+{
+"target": 67, 
+"value": 97288, 
+"source": 58, 
+"intra_cnty": false, 
+"cnty_or_state": "State", 
+"intra_state": false
+}, 
+{
+"target": 67, 
+"value": 32824, 
+"source": 61, 
+"intra_cnty": false, 
+"cnty_or_state": "State", 
+"intra_state": false
+}, 
+{
+"target": 67, 
+"value": 171596, 
+"source": 63, 
+"intra_cnty": false, 
+"cnty_or_state": "State", 
+"intra_state": false
+}, 
+{
+"target": 67, 
+"value": 22147, 
+"source": 64, 
+"intra_cnty": false, 
+"cnty_or_state": "State", 
+"intra_state": false
+}, 
+{
+"target": 68, 
+"value": 317974, 
+"source": 35, 
+"intra_cnty": false, 
+"cnty_or_state": "State", 
+"intra_state": false
+}, 
+{
+"target": 68, 
+"value": 93389, 
+"source": 36, 
+"intra_cnty": false, 
+"cnty_or_state": "State", 
+"intra_state": false
+}, 
+{
+"target": 68, 
+"value": 717756, 
+"source": 42, 
+"intra_cnty": false, 
+"cnty_or_state": "State", 
+"intra_state": false
+}, 
+{
+"target": 68, 
+"value": 531933, 
+"source": 48, 
+"intra_cnty": false, 
+"cnty_or_state": "State", 
+"intra_state": false
+}, 
+{
+"target": 68, 
+"value": 2211358, 
+"source": 50, 
+"intra_cnty": false, 
+"cnty_or_state": "State", 
+"intra_state": false
+}, 
+{
+"target": 68, 
+"value": 109987, 
+"source": 52, 
+"intra_cnty": false, 
+"cnty_or_state": "State", 
+"intra_state": false
+}, 
+{
+"target": 68, 
+"value": 15391, 
+"source": 54, 
+"intra_cnty": false, 
+"cnty_or_state": "State", 
+"intra_state": false
+}, 
+{
+"target": 68, 
+"value": 637066, 
+"source": 55, 
+"intra_cnty": false, 
+"cnty_or_state": "State", 
+"intra_state": false
+}, 
+{
+"target": 68, 
+"value": 95778, 
+"source": 56, 
+"intra_cnty": false, 
+"cnty_or_state": "State", 
+"intra_state": false
+}, 
+{
+"target": 68, 
+"value": 81337, 
+"source": 57, 
+"intra_cnty": false, 
+"cnty_or_state": "State", 
+"intra_state": false
+}, 
+{
+"target": 68, 
+"value": 600020, 
+"source": 59, 
+"intra_cnty": false, 
+"cnty_or_state": "State", 
+"intra_state": false
+}, 
+{
+"target": 68, 
+"value": 23713, 
+"source": 60, 
+"intra_cnty": false, 
+"cnty_or_state": "State", 
+"intra_state": false
+}, 
+{
+"target": 68, 
+"value": 58340, 
+"source": 62, 
+"intra_cnty": false, 
+"cnty_or_state": "State", 
+"intra_state": false
+}, 
+{
+"target": 68, 
+"value": 372488, 
+"source": 65, 
+"intra_cnty": false, 
+"cnty_or_state": "State", 
+"intra_state": false
+}
+]
+}

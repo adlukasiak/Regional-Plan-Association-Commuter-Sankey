@@ -31,6 +31,16 @@ function do_with_data(energy) {
       .enter().append("path")
       .attr("class", "link")
       .attr("d", path)
+      .style("stroke",function(d) {
+	if (d.cnty_or_state == "State")
+          return "black";
+        if (d.intra_cnty)
+          return "black";
+        else if (d.intra_state)
+          return "brown";
+        else
+          return "magenta"
+      })
       .style("stroke-width", function(d) { return Math.max(1, d.dy); })
       .sort(function(a, b) { return b.dy - a.dy; })
       .on("mouseover", function(d){$("#hover_description").append($("<span>" + d.source.name + " to " + d.target.name + ":  " + format(d.value) + "</span>"));})
